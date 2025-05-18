@@ -1,4 +1,4 @@
-# desenvo-rapido
+# desenvo-rapido - branch master
 Trabalhos de Desenvolvimento Rápido em Python
 
-Localização: branch master
+Localizado na branch master
